@@ -1,0 +1,8 @@
+{
+    "schedule": {
+        "summerDayMode": "DISABLED",
+        "summerNightMode": "LOW_SPEED_CONTINUOUS_EXCHANGE",
+        "winterDayMode":"INTERMITTENT_FILTRATION_AND_EXCHANGE",
+        "winterNightMode":"DISABLED"
+    }
+}
